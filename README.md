@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  React Typescript Boilerplate
+  React + Typescript + Eslint + Prettier
 </p>
 
 <div align="center">
